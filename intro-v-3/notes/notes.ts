@@ -22,7 +22,7 @@
 - When we create a _FolderName folder we will make the folder private so it wont include in the routes (For example an -css folder that includes the css files and we dont want to include that into the URL)
 - Or we can add the css file in the root directory of the project so the css will be applied to the whole application
 
-@ CSS moduls:
+@ CSS modules:
 - Just like css but its like javascript moduls and its encapsulated and it isnt globall so we can have one modul per component
 - Css module will make a unique class name for you 
 
