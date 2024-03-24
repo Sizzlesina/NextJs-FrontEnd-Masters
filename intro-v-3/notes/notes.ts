@@ -40,4 +40,7 @@
 - In the same folder we can have a error.tsx file too that handles the error toast and shows an error when it cant fetch the data
 !HINT: These are built in Next Js components
 
+@ Middleware:
+- Is something like a thing between the routes so when we want to navigate through routes we pass middleware then we get navigated to that route
+
  */
